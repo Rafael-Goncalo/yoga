@@ -9,8 +9,8 @@ const AboutYoga = () => {
         <img src={yogaImage} alt="yogabenefits" className="about-image" />
         <div className="about-text">
           <p>
-            Yoga is an ancient philosophy which aims complete steadyness of mind
-            (Samadhi). To reach Samadhi the Yogui must go through 8 steps or
+            Yoga is an ancient philosophy to awake the mind and envigours the body.
+            To achieve this the Yogui must go through 8 steps or
             limbs of Yoga: Yama, Nyama, Asana, Pranayama, Pratyahara, Dharana,
             Dhiana and Samadhi. In conclusion Asana alone is not Yoga, asanas or
             postures are used to prepare the body to stay quiet and to keep the

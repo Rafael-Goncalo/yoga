@@ -13,7 +13,7 @@ const HomePage = () => {
         </p>
 
         <Link to="/asanas">
-          <button className="explore-btn">Choose Asanas</button>
+          <button className="explore-btn">Select Asanas</button>
         </Link>
       </div>
     </div>
