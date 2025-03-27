@@ -47,7 +47,7 @@ const YogaAsanas = () => {
         <Link to={`/asana-details/${set.id}`}>
           <img src={set.image} alt={set.category} className="card-image"/>
         </Link>
-        {set.id===createdId &&(
+        {set.created &&(
         <button className="delete-btn" onClick={()=>handleDelete(set.id)}>delete</button>
       )}
        </div>
